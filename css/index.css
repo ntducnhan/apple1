@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+html body {
+    height: 100%;
+}
+
+/* nav-header*/
+.nav-header {
+    width: 100%;
+    height: 50px;
+    background-color: #333333;
+    margin-top: -6px;
+}
+/* ul inner-header*/
+.ul-inner_header {
+     display: flex;
+     width: 60%;
+     height: 100%;
+     margin: auto;
+     justify-content: center;
+     align-items: center;
+     
+}
+
+ul li {
+    list-style-type: none;
+    width: 16.66%;
+    text-align: center;
+   
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+}
+
+/* Main */
+
+main {
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color:  white;
+    display: flex;
+    flex-direction: column;
+}
+.wrap_iphone {
+    background-color: #F9F0EB ;
+    margin-top: -20px;
+}
+
+.content-iphone8 {
+    height: 150px;
+    text-align: center;
+}
+
+.content-iphone8 p {
+   padding-top: 2%;
+}
+
+/* IPHONE 8*/
+.class1 {
+    background-image: url(../img/iphone_8_largetall_2x.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: contain ;
+}
+
+/* IPHONE X*/
+
+.wrap_iphonex {
+    background-color: #FAFAFA ;
+    margin-top: 1%;
+}
+
+.content-iphonex {
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 2%;
+}
+.class2 {
+    background-image: url(../img/iphone_x_largetall_2x.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: contain ;
+}
+
+/* WATCH*/
+.wrap_watch {
+    background-color: #FAFAFA ;
+    margin-top: 1%;
+}
+
+.content-watch {
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 2%;
+}
+
+.class3 {
+    background-image: url(../img/watch_largetall_2x.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: contain ;
+}
+
+
+
