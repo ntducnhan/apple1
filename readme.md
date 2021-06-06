@@ -169,7 +169,7 @@ if clone project error is about node-sass - please: npm rebuild node-sass
 - Copyright 2021 google.com
 
 ## Useful Links
-Google
+Google yahoo
 ## CODE
 ```css 
   .little-rapit {
