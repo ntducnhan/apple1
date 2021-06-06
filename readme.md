@@ -1,4 +1,6 @@
-## Quick start
+## ĐỒ ÁN APPLE BASIC
+
+README (as the name suggests: "read me") is the first file one should read when starting a new project. It's a set of useful information about a project, and a kind of manual. A README text file appears in many various places and refers not only to programming. We will focus on a programmer's README, though. 
 
 Quick start options:
 
@@ -175,3 +177,10 @@ Social Media:
 Facebook: <https://www.facebook.com/minh.hy306/>
 
 Instagram: <https://www.instagram.com/862_yh.hnim/>
+
+```css 
+  .little-rapit {
+      color : white;
+      background-color: black;
+  }
+```
