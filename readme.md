@@ -178,9 +178,14 @@ Facebook: <https://www.facebook.com/minh.hy306/>
 
 Instagram: <https://www.instagram.com/862_yh.hnim/>
 
+## CODE
 ```css 
   .little-rapit {
       color : white;
       background-color: black;
   }
+```
+
+```html 
+<div>Hello Github</div>
 ```
