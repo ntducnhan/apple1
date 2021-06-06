@@ -166,18 +166,10 @@ if clone project error is about node-sass - please: npm rebuild node-sass
 
 ## Licensing
 
-- Copyright 2021 Lê Quang Minh: (https://www.facebook.com/minh.hy306/)
+- Copyright 2021 google.com
 
 ## Useful Links
-
-More products Lê Quang Minh: <https://github.com/Minh306/>
-
-Social Media:
-
-Facebook: <https://www.facebook.com/minh.hy306/>
-
-Instagram: <https://www.instagram.com/862_yh.hnim/>
-
+Google
 ## CODE
 ```css 
   .little-rapit {
