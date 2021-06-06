@@ -1,4 +1,6 @@
-## Quick start
+## ĐỒ ÁN APPLE BASIC
+
+README (as the name suggests: "read me") is the first file one should read when starting a new project. It's a set of useful information about a project, and a kind of manual. A README text file appears in many various places and refers not only to programming. We will focus on a programmer's README, though. 
 
 Quick start options:
 
@@ -156,7 +158,7 @@ cybersoft-movie
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="src/assets/github/chrome.png" width="64" height="64"> <img src="src/assets/github/firefox.png" width="64" height="64"> <img src="src/assets/github/edge.png" width="64" height="64"> <img src="src/assets/github/safari.png" width="64" height="64"> <img src="src/assets/github/opera.png" width="64" height="64">
+ALL BROWSER
 
 ## Reporting Issues
 
@@ -164,14 +166,19 @@ if clone project error is about node-sass - please: npm rebuild node-sass
 
 ## Licensing
 
-- Copyright 2021 Lê Quang Minh: (https://www.facebook.com/minh.hy306/)
+- Copyright 2021 google.com
 
 ## Useful Links
+Google
+## CODE
+```css 
+  .little-rapit {
+      color : white;
+      background-color: black;
+  }
+```
 
-More products Lê Quang Minh: <https://github.com/Minh306/>
-
-Social Media:
-
-Facebook: <https://www.facebook.com/minh.hy306/>
-
-Instagram: <https://www.instagram.com/862_yh.hnim/>
+```html 
+<div>Hello Github</div>
+<h1>hellow</h1>
+```
